@@ -33,8 +33,7 @@ namespace MCount
                 }
                 else
                 {
-                    templateRepetitions = 0;
-                    ++templateRepetitions;
+                    templateRepetitions = 1;
                 }
             }
 
